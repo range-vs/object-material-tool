@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Window">
+      <UniqueIdentifier>{7d7967a2-28f8-4fa6-b1b2-c4e4616b73ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Code">
+      <UniqueIdentifier>{7d6c2430-c3e2-45b6-9ca8-9d4512c95c82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{7c8cd46a-5362-40f2-a198-dd1b9f59fbc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{cdcf4ea0-c4e2-473e-9d4f-a746d8dca0e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainWindow.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Lines.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectDecompiler.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="About.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectDecompiler.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Lines.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="About.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainWindow.resx" />
+    <EmbeddedResource Include="About.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ico\1235.ico">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

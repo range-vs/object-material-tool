@@ -1,0 +1,240 @@
+					LOS_MOD
+
+los_mod\bar\ashtray01.dds - material\cloths
+los_mod\bar\bartaps01.dds - material\wood
+los_mod\barrel\barrel02.dds - material\metal
+los_mod\barrel\nv_barrel-radioactive-dirt.dds - material\cloths
+los_mod\barrel\rockcanyonrubble01.dds - material\earth
+los_mod\books\bookgeneric01.dds - material\wood
+los_mod\fireplace\cinderblock01.dds - material\briks
+los_mod\fireplace\tires01.dds - material\stucco
+los_mod\fireplace\wooddetails.dds - material\wood
+
+					METAL
+
+metal\metal_1.dds - material\metal_pipe
+metal\metal_3.dds - material\metal_plate
+metal\metal_08_mokriy.dds - material\metal_pipe
+
+					METRO
+
+metro\metro_crete_1.dds - material\concrete
+
+					MTL
+
+mtl\mtl_fence_01.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_03.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_04.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_05.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_ql.dds - def_shaders\def_aref
+		      default
+		      material/metal_plate
+
+mtl\mtl_fence_1.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_3.dds - def_shaders\def_aref
+		      default
+		      material/metal_plate
+
+mtl\mtl_fence_2n.dds - def_shaders\def_aref
+		       default
+		       material/setka_rabica
+
+mtl\mtl_fence_3.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_4.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_fence_5.dds - def_shaders\def_aref
+		      default
+		      material/setka_rabica
+
+mtl\mtl_floor_fence_01.dds - def_shaders\def_aref
+		      	     default
+		      	     material/metal_plate
+
+mtl\mtl_floor03.dds - def_shaders\def_aref
+		      default
+		      material/metal_plate
+
+mtl\mtl_girder_reil.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_girder_reil_a.dds - def_shaders\def_aref
+		            default
+		            material/metal_plate
+
+mtl\mtl_girder_reil_b.dds - def_shaders\def_aref
+		            default
+		            material/metal_plate
+
+mtl\mtl_high_tention_tower.dds - def_shaders\def_aref
+		                 default
+		                 material/metal_plate
+
+mtl\mtl_krolik_resh.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_railroad_01.dds - material/metal_plate
+mtl\mtl_railroad_02.dds - material/metal_plate
+mtl\mtl_railroad_03.dds - material/metal_plate
+mtl\mtl_railroad_04.dds - material/metal_plate
+mtl\mtl_railroad_04_bok.dds - material/metal_plate
+mtl\mtl_railroad_05.dds - material/metal_plate
+
+mtl\mtl_rech_ch_01.dds - def_shaders\def_aref
+		         default
+		         material/metal_plate
+
+mtl\mtl_resh_kn.dds - def_shaders\def_aref
+		      default
+		      material/metal_plate
+
+mtl\mtl_resh_reil.dds - def_shaders\def_aref
+		        default
+		        material/metal_plate
+
+mtl\mtl_resh_reil_a.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_resh_reil_b.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_resh_reil01.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_resh_reil02.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_resh_reil03.dds - def_shaders\def_aref
+		          default
+		          material/metal_plate
+
+mtl\mtl_reshetka_pot_01.dds - def_shaders\def_aref
+		              default
+		              material/metal_plate
+
+mtl\mtl_rja_02_holes.dds - def_shaders\def_aref
+		           default
+		           material/metal_plate
+
+mtl\mtl_rja_holes.dds - def_shaders\def_aref
+		        default
+		        material/metal_plate
+
+mtl\mtl_setka_iov.dds - def_shaders\def_aref
+		        default
+		        material/metal_plate
+
+mtl\mtl_walls9.dds - def_shaders\def_aref
+		     default
+		     material/metal_plate
+
+mtl\x-support1.dds - def_shaders\def_aref
+		     default
+		     material/metal_plate
+
+						NC
+
+nc\nc_hl2_forsest_01.dds - def_shaders\def_aref
+nc\nc_hl2_forsest_02.dds - def_shaders\def_aref
+nc\nc_hl2_forsest_03.dds - def_shaders\def_aref
+nc\nc_hl2_forsest_04.dds - def_shaders\def_aref
+nc\nc_house_white_01.dds - material\stucco
+nc\nc_rls_krep_02_texture.dds - material\metal
+nc\nc_rls_krep01.dds - material\metal
+nc\nc_trees_forestwall.dds - def_shaders\def_aref
+nc\nc_trees_forestwall.dds - def_shaders\def_aref
+nc\nc_terrs_forestwall_sosna.dds - def_shaders\def_aref
+nc\nc_terrs_forestwall_sosna_sep.dds - def_shaders\def_aref
+nc\nc_trees_forestwall2.dds - def_shaders\def_aref
+nc\nc_trees_undergrowht1.dds - def_shaders\def_aref
+nc\nc_trees_undergrowht2.dds - def_shaders\def_aref
+nc\nc_trees_undergrowht3.dds - def_shaders\def_aref
+
+						NEWCONCEPT
+
+newconcept\newconcept_asfalt_hr_iov.dds - material\asphalt
+newconcept\newconcept_azs_cisterna_1.dds - materials\metal
+newconcept\newconcept_azs_kolonka_ai76.dds - materials\metal
+newconcept\newconcept_azs_kolonka_ai92.dds - materials\metal
+newconcept\newconcept_azs_kolonka_dt.dds - materials\metal
+newconcept\newconcept_beton_ch_15.dds - material\concrete
+newconcept\newconcept_beton_ch_151.dds - material\concrete
+newconcept\newconcept_bordur.dds - material\concrete
+newconcept\newconcept_bordur_br.dds - material\concrete
+newconcept\newconcept_bordur1.dds - material\concrete
+newconcept\newconcept_bordur2.dds - material\concrete
+newconcept\newconcept_bordur3.dds - material\concrete
+newconcept\newconcept_brevna.dds - material\wood
+newconcept\newconcept_brevna_srez.dds - material\wood
+newconcept\newconcept_brevna.dds - material\wood
+newconcept\newconcept_brick_small_painted.dds - material\bricks
+newconcept\newconcept_brick_smallbrown_01.dds - material\bricks
+newconcept\newconcept_brick_smallbrown_02.dds - material\bricks
+newconcept\newconcept_brick_smallbrown_03.dds - material\bricks
+newconcept\newconcept_brick_brown.dds - material\bricks
+newconcept\newconcept_er1_head.dds - material\metal
+newconcept\newconcept_er1_wheels.dds - material\metal
+newconcept\newconcept_iz.dds - materials\metal
+newconcept\newconcept_lamppost_iov.dds - material\metal
+newconcept\newconcept_mramor_dust.dds - material\bricks
+
+newconcept\newconcept_mtl_fence1.dds - def_shaders\def_aref
+				       default
+				       material\metal_plate
+
+newconcept\newconcept_pobelka_01.dds - material\stucco
+newconcept\newconcept_pobelka_02.dds - material\stucco
+newconcept\newconcept_opor01_v.dds - material\metal
+newconcept\newconcept_pobelka_03.dds - material\stucco
+newconcept\newconcept_pr01_v.dds - material\metal
+newconcept\newconcept_railroad_rails.dds - material\wood
+newconcept\newconcept_railroad_rails1.dds - material\wood
+newconcept\newconcept_shpala.dds - material\wood
+newconcept\newconcept_railroad_strelka.dds - material\metal
+newconcept\newconcept_tile_marble.dds - material\stucco
+newconcept\newconcept_volga.dds - material\metal
+newconcept\newconcept_wall.dds - material\metal
+newconcept\newconcept_wall_1.dds - material\stucco
+newconcept\newconcept_wood_doski2.dds - material\wood
+newconcept\newconcept_wood_furniture_01.dds - material\wood  ; надо бы запомнить, очень интересная текстура
+newconcept\newconcept_wood_furniture_02.dds - material\wood  ; эту тоже
+newconcept\newconcept_wood_old_white.dds - material\wood
+newconcept\newconcept_wood_old_white_90.dds - material\wood
+newconcept\newconcept_wood_walls4.dds - material\wood
+newconcept\prop_signs.dds - material\metal
+
+						OZM
+
+ozm\ozm_metal_rja_1.dds - material\metal
+ozm\ozm_metal_rja_2.dds - material\metal
+ozm\ozm_metal_rja_3.dds - material\metal
+ozm\ozm_metal_rja_4.dds - material\metal
+
+						PROP
+
+prop\

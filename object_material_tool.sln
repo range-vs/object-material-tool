@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "object_material_tool", "object_material_tool\object_material_tool.vcxproj", "{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Debug|x64.ActiveCfg = Debug|x64
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Debug|x64.Build.0 = Debug|x64
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Debug|x86.Build.0 = Debug|Win32
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Release|x64.ActiveCfg = Release|x64
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Release|x64.Build.0 = Release|x64
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Release|x86.ActiveCfg = Release|Win32
+		{FD3A4FF6-E906-4FC8-AF93-E26538D68D9D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E229FE15-3696-4CE3-813A-FA4BA9E5A958}
+	EndGlobalSection
+EndGlobal
