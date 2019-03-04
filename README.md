@@ -2,7 +2,9 @@
 
 ## English description
 **Autors:**
+
 tervel - algorithm. [livejournal.com](https://tervel.livejournal.com)
+
 range36rus - adaptation for .NET and C++/CLI/Win Forms. It's me :).
 
 A program that allows you to automatically adjust the materials in a 3d-model format *. Object.
@@ -34,7 +36,9 @@ Paths are written without spaces
 
 ## Русское описание
 **Авторы:**
+
 tervel - алгоритм. [livejournal.com](https://tervel.livejournal.com)
+
 range36rus - адаптация для .NET и C++/CLI/Win Forms. Это я:)
 
 Программа, которая позволяет производить автоматическую настройку материалов в 3d-модели формата *.object.
