@@ -18,7 +18,7 @@ Supports any objects from X-Ray SDK version 0.4 - 0.7.
 
 ### How it works?
 Sometimes, when exporting/decompiling/retrieving locations from builds incorrectly, you need to adjust a huge amount of materials. The program does it
-for you. All that is required is to have the config material_full.ini, which describes the custom sections. Sections can be replenished,
+for you. All that is required is to have the config material_full.ini(the file is in the root of the program, look for it there), which describes the custom sections. Sections can be replenished,
 the instruction will be described below
 
 ### Add-on instruction for the material_full.ini file:
@@ -52,7 +52,7 @@ range36rus - адаптация для .NET и C++/CLI/Win Forms. Это я:)
 
 ### Как это работает?
 Иногда, при не корректном экспорте/декомпиляции/получении локации из билдов требуется настроить огромное количество матриалов. Программа делает это
-за Вас. Всё что требуется - иметь конфиг material_full.ini, в котором описаны настраиваемые секции. Секции можно пополнять, 
+за Вас. Всё что требуется - иметь конфиг material_full.ini(файл лежит в корне программы ищите его там.), в котором описаны настраиваемые секции. Секции можно пополнять, 
 инструкция будет описана ниже
 
 ### Инструкция дополнения файла material_full.ini:
