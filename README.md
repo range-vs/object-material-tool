@@ -3,7 +3,7 @@
 ## English description
 **Autors:**
 
-tervel - algorithm. [livejournal.com](https://tervel.livejournal.com)
+tervel - algorithm. [livejournal.com](https://tervel.livejournal.com) [github.com] (https://github.com/TerVel76)
 
 range36rus - adaptation for .NET and C++/CLI/Win Forms. It's me :).
 
