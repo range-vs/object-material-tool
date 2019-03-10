@@ -37,7 +37,7 @@ Paths are written without spaces
 ## Русское описание
 **Авторы:**
 
-tervel - алгоритм. [livejournal.com](https://tervel.livejournal.com)
+tervel - алгоритм. [livejournal.com](https://tervel.livejournal.com) [github.com](https://github.com/TerVel76)
 
 range36rus - адаптация для .NET и C++/CLI/Win Forms. Это я:)
 
